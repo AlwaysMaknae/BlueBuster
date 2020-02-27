@@ -1,0 +1,83 @@
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.exe.config
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.exe
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.pdb
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\MySql.Data.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Google.Protobuf.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\MySql.Data.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Renci.SshNet.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vLogin.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.Resources.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.CopyComplete
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.exe
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.pdb
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAddClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAdvanceSearch.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDashboard.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteEmployee.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditEmployee.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee1.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAddVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee2.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee3.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNPassword.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vRentVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vReturnVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vSearch.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vClientList.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vQuickSearch.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEmployeeList.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vVideoList.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vVideoList2.resources
+E:\project\project\bin\Debug\project.exe.config
+E:\project\project\bin\Debug\project.exe
+E:\project\project\bin\Debug\project.pdb
+E:\project\project\bin\Debug\project.xml
+E:\project\project\bin\Debug\BouncyCastle.Crypto.dll
+E:\project\project\bin\Debug\Google.Protobuf.dll
+E:\project\project\bin\Debug\MySql.Data.dll
+E:\project\project\bin\Debug\Renci.SshNet.dll
+E:\project\project\bin\Debug\Google.Protobuf.xml
+E:\project\project\bin\Debug\MySql.Data.xml
+E:\project\project\bin\Debug\Renci.SshNet.xml
+E:\project\project\obj\Debug\project.vbprojAssemblyReference.cache
+E:\project\project\obj\Debug\project.vClientList.resources
+E:\project\project\obj\Debug\project.vEmployeeList.resources
+E:\project\project\obj\Debug\project.vLogin.resources
+E:\project\project\obj\Debug\project.Resources.resources
+E:\project\project\obj\Debug\project.vAddClient.resources
+E:\project\project\obj\Debug\project.vAddVideo.resources
+E:\project\project\obj\Debug\project.vAdvanceSearch.resources
+E:\project\project\obj\Debug\project.vDashboard.resources
+E:\project\project\obj\Debug\project.vDeleteClient.resources
+E:\project\project\obj\Debug\project.vDeleteEmployee.resources
+E:\project\project\obj\Debug\project.vDeleteVideo.resources
+E:\project\project\obj\Debug\project.vEditClient.resources
+E:\project\project\obj\Debug\project.vEditEmployee.resources
+E:\project\project\obj\Debug\project.vEditVideo.resources
+E:\project\project\obj\Debug\project.vNEmployee1.resources
+E:\project\project\obj\Debug\project.vNEmployee2.resources
+E:\project\project\obj\Debug\project.vNEmployee3.resources
+E:\project\project\obj\Debug\project.vNPassword.resources
+E:\project\project\obj\Debug\project.vQuickSearch.resources
+E:\project\project\obj\Debug\project.vRentVideo.resources
+E:\project\project\obj\Debug\project.vReturnVideo.resources
+E:\project\project\obj\Debug\project.vSearch.resources
+E:\project\project\obj\Debug\project.vVideoList.resources
+E:\project\project\obj\Debug\project.vVideoList2.resources
+E:\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+E:\project\project\obj\Debug\project.vbproj.CopyComplete
+E:\project\project\obj\Debug\project.exe
+E:\project\project\obj\Debug\project.xml
+E:\project\project\obj\Debug\project.pdb
